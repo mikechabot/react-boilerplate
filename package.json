@@ -104,7 +104,7 @@
     "json-loader": "^0.5.7",
     "loadable-ts-transformer": "^1.0.0-alpha.3",
     "mini-css-extract-plugin": "^1.3.3",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^4.1.0",
     "prettier": "^2.2.1",
     "pretty-quick": "^2.0.2",
